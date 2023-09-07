@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: CITIZEN-SERVICE
 eureka:
   client:
     fetch-registry: true
